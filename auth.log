@@ -1,0 +1,14 @@
+Original path: cybersecurity-auth-log-analyzer/sample_data/auth.log
+Note: this PDF displays the file's text. It is not a runnable replacement for the original .py, .sql, .yml, or configuration file.
+Oct 11 10:02:11 demo-host sshd[123]: Failed password for invalid user admin from 192.0.2.10 port 51000
+ssh2
+Oct 11 10:02:15 demo-host sshd[123]: Failed password for invalid user admin from 192.0.2.10 port 51001
+ssh2
+Oct 11 10:02:19 demo-host sshd[123]: Failed password for root from 192.0.2.10 port 51002 ssh2
+Oct 11 10:03:01 demo-host sshd[124]: Accepted publickey for analyst from 198.51.100.22 port 52000 ssh2
+Oct 11 10:04:05 demo-host sshd[125]: Failed password for test from 203.0.113.7 port 53000 ssh2
+Oct 11 10:04:10 demo-host sshd[125]: Failed password for test from 203.0.113.7 port 53001 ssh2
+Oct 11 10:04:20 demo-host sshd[125]: Failed password for test from 203.0.113.7 port 53002 ssh2
+Oct 11 10:04:25 demo-host sshd[125]: Failed password for test from 203.0.113.7 port 53003 ssh2
+Oct 11 10:04:30 demo-host sshd[125]: Failed password for test from 203.0.113.7 port 53004 ssh2
+Oct 11 10:05:02 demo-host sshd[126]: Accepted password for ops from 198.51.100.23 port 54000 ssh2
